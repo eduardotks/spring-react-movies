@@ -6,6 +6,7 @@ O projeto será implantado na nuvem utilizando os sitemas do Netlify e Heroku.
 ### Requisitos:
 - Node
 - Yarn
+- Spring Tool Suite 4
 
 ### Instalação:
 Para rodar o frontend da aplicação, na pasta frontend abrir um terminal e digitar:
@@ -15,3 +16,5 @@ Para rodar o frontend da aplicação, na pasta frontend abrir um terminal e digi
 `yarn add react-router-dom@6.2.1 @types/react-router-dom@5.3.2`
 
 `yarn start`
+
+Para rodar o backend no Spring Tool, abrir o programa e importar o projeto na opção Maven > existing maven projects e escolher pasta backend, esperar a aplicação instalar as dependências.
