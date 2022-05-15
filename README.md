@@ -20,3 +20,8 @@ Para rodar o frontend da aplicação, na pasta frontend abrir um terminal e digi
 `yarn start`
 
 Para rodar o backend no Spring Tool, abrir o programa e importar o projeto na opção Maven > existing maven projects e escolher pasta backend, esperar a aplicação instalar as dependências.
+
+# Imagem do projeto
+<p align="center">
+  <img width="100%" src="https://github.com/eduardotks/spring-react-movies/blob/main/images/capa.png">
+</p>
