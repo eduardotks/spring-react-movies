@@ -11,5 +11,7 @@ O projeto será implantado na nuvem utilizando os sitemas do Netlify e Heroku.
 Para rodar o frontend da aplicação, na pasta frontend abrir um terminal e digitar:
 
 `npm install --global yarn`
+
 `yarn add react-router-dom@6.2.1 @types/react-router-dom@5.3.2`
+
 `yarn start`
