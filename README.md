@@ -21,11 +21,11 @@ Para rodar o frontend da aplicação, na pasta frontend abrir um terminal e digi
 
 Para rodar o backend no Spring Tool, abrir o programa e importar o projeto na opção Maven > existing maven projects e escolher pasta backend, esperar a aplicação instalar as dependências.
 
-#Link do projeto
+### Link do projeto
 
 <a href="https://dsmovieedu.netlify.app/" target="_blank">Projeto Online</a>
 
-# Imagem do projeto
+### Imagem do projeto
 <p align="center">
   <img width="100%" src="https://github.com/eduardotks/spring-react-movies/blob/main/images/capa.png">
 </p>
